@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Shorya Kashyap aka AlphaNumeric as a coder name. 
+- 👀 I’m interested in Java and Gaming.
+- 🌱 I’m currently in middle school.
+- 💞️ I’m looking to collaborate on some cool open source gaming project and excel my Java Skills.
+- 📫 Studying and chilling at the same time.
